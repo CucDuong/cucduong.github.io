@@ -4,7 +4,7 @@ Cuc is a graduate student at Nanyang Technological University. Her research focu
 
 # Optical Flow
 
-Fluid flow
+Planar laser-induced fluorescence image of a flow
 
 ![Image flow](frame10.png)
 
