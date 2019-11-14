@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](result.png)
+![Image](/cucduong.github.io/result.png)
 
 ```
 
