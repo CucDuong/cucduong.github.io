@@ -1,6 +1,6 @@
 # About
 
-Cuc is a graduate student at Nanyang Technological University. Her research focuses on optical flow and how to apply it to fluid dynamics. She is working at [NEWRI](http://newri.ntu.edu.sg) institute , under the supervision of Associate Professor Adrian Law.
+Cuc is a graduate student at Nanyang Technological University. Her research focuses on optical flow and how to apply it to fluid dynamics. She is working at [NEWRI institute](http://newri.ntu.edu.sg), under the supervision of [Associate Professor Adrian Law](http://www.cee.ntu.edu.sg/aboutus/FacultyDir/Pages/cwklaw.aspx).
 
 # Optical Flow
 
