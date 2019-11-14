@@ -4,30 +4,13 @@ Cuc is a graduate student at Nanyang Technological University. Her research focu
 
 # Optical Flow
 
-![Image 1](cucduong.github.io/result.png)
+Fluid flow
 
-![Image 2](result.png)
+![Image flow] (frame10.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Velocity field
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-![Image](/cucduong.github.io/result.png)
-
-```
+![Image velocity](result.png)
 
 
 # Contact
