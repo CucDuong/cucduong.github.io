@@ -6,7 +6,7 @@ Cuc is a graduate student at Nanyang Technological University. Her research focu
 
 Fluid flow
 
-![Image flow] (frame10.png)
+![Image flow](frame10.png)
 
 Velocity field
 
