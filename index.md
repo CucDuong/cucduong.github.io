@@ -4,6 +4,10 @@ Cuc is a graduate student at Nanyang Technological University. Her research focu
 
 # Optical Flow
 
+![Image 1](cucduong.github.io/result.png)
+
+![Image 2](result.png)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
